@@ -1,8 +1,3 @@
-# qr-code-reader-or-scanner
-https://bibek10550.github.io/qr-code-reader-or-scanner/
-
-
-
 
 
 <h1 align="center">Hi 👋, it's Bibek Chand Sah</h1>
